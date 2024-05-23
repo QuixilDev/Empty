@@ -1,2 +1,2 @@
 # FirstRepo
-"Here is just a random repo"
+"Here is just a random empty repo"
